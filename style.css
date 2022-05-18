@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: black;
+}
+nav h3 {
+padding-left: 50px ;
+color: rgb(6, 6, 88);
+}
+
+nav button{
+    padding:10px ;
+    margin-top: 10px;
+    height: 50%;
+    color: white;
+    background-color: blue;
+    border-radius: 20px;
+    width: 10%;
+
+}
+
+
+.front h1{
+    padding-left: 100px;
+    margin-top: 40px;
+
+}
+.front h3{
+    
+    padding-left:100px ;
+}
+.front button{
+margin-left: 100px;
+border-radius: 20px;
+color: white;
+
+}
+
+
