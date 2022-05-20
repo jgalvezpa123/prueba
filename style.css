@@ -40,5 +40,14 @@ border-radius: 20px;
 color: white;
 
 }
+.front img{
+    float: right;
+   padding-right: 50px;
+   position: relative;
+   right: 300px;
+   bottom: 100px;
+   
+
+}
 
 
